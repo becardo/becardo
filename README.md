@@ -1,6 +1,6 @@
 ## Oi! Me chamo Beatriz, seja bem-vinda/o ao meu perfil :) 
 
-<!--
+
 Atualmente sou estudante de Engenharia de Controle e Automação na UFMG, com grande interesse na área de Engenharia Biomédica. Tenho formação técnica em Equipamentos Biomédicos pelo CEFET-MG, o que despertou meu interesse em atuar na interface entre tecnologia e saúde. 
 
 Busco desenvolver projetos que unam inovação, acessibilidade e impacto social, especialmente voltados para soluções tecnológicas em saúde. No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo ao longo da minha trajetória acadêmica e técnica. Vamos transformar ideias em soluções reais? ⚡
@@ -17,4 +17,3 @@ Busco desenvolver projetos que unam inovação, acessibilidade e impacto social,
 <a href = "https://www.linkedin.com/in/ana-beatriz-s-75b391207" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
--->
