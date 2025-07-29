@@ -1,6 +1,8 @@
 ## Oi! Me chamo Beatriz, seja bem-vinda/o ao meu perfil :)
 
-<img src="octocat-1753817286070.png" alt="Avatar de Beatriz" width="100" align="right" />
+<div align="center">
+  <img src="octocat-1753817286070.png" alt="Avatar de Beatriz" width="200" />
+</div>
 
 Atualmente sou estudante de Engenharia de Controle e Automação na UFMG, com grande interesse na área de Engenharia Biomédica. Tenho formação técnica em Equipamentos Biomédicos pelo CEFET-MG, o que despertou meu interesse em atuar na interface entre tecnologia e saúde.
 
@@ -11,27 +13,15 @@ No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo
 
 ---
 
-## 🚀 Linguagens no meu GitHub
+## 🚀📊 Linguagens e Estatísticas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=becardo&layout=donut&theme=dracula)
-
----
-
-## 📊 Estatísticas
-
-<a href="https://github.com/becardo">
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=becardo&layout=donut&theme=dracula) <a href="https://github.com/becardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
 ---
 
-## 🧠 Meu gráfico de contribuições
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=becardo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🛠️ Ferramentas que uso ou conheço
+## 🛠️ Ferramentas
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -42,7 +32,7 @@ No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo
 
 ---
 
-## 📚 Estou aprendendo
+## 📚 Estou aprendendo...
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -55,7 +45,7 @@ No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo
 
 ---
 
-## 📫 Contato
+## 📫 Entre em contato comigo! 
 
 <div>
   <a href="mailto:ana.beatrizsc.0702@gmail.com">
