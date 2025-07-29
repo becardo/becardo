@@ -16,9 +16,9 @@ No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo
 ## 🚀📊 Linguagens e Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becardo&layout=donut&theme=dracula" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becardo&layout=donut&theme=dracula&cache_seconds=60" width="350"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=becardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=becardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60" width="500"/>
 </div>
 
 ---
