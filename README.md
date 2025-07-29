@@ -20,10 +20,15 @@ Busco desenvolver projetos que unam inovação, acessibilidade e impacto social,
 
 <div>
 <a href="https://github.com/becardo">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becardo&layout=compact&langs_count=7&theme=dracula"/> 
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=becardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
+
+---
+
+## 🧠 Meu gráfico de contribuições
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=becardo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
