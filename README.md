@@ -5,6 +5,8 @@ Atualmente sou estudante de Engenharia de Controle e Automação na UFMG, com gr
 
 Busco desenvolver projetos que unam inovação, acessibilidade e impacto social, especialmente voltados para soluções tecnológicas em saúde. No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo ao longo da minha trajetória acadêmica e técnica. Vamos transformar ideias em soluções reais? ⚡
 
+![Meu Avatar](images/octocat-1753817286070.png)
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
   --
