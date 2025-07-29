@@ -12,7 +12,7 @@ Busco desenvolver projetos que unam inovação, acessibilidade e impacto social,
 
 ## 🚀 Linguagens no meu GitHub
 
-<img src="assets/languages-pie.png" alt="Gráfico de linguagens" width="300"/>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becardo&layout=donut&theme=dracula)
 
 ---
 
