@@ -1,9 +1,5 @@
 ## Oi! Me chamo Beatriz, seja bem-vinda/o ao meu perfil :)
 
-<div align="center">
-  <img src="octocat-1753817286070.png" alt="Avatar de Beatriz" width="400" />
-</div>
-
 Atualmente sou estudante de Engenharia de Controle e Automação na UFMG, com grande interesse na área de Engenharia Biomédica. Tenho formação técnica em Equipamentos Biomédicos pelo CEFET-MG, o que despertou meu interesse em atuar na interface entre tecnologia e saúde.
 
 Busco desenvolver projetos que unam inovação, acessibilidade e impacto social, especialmente voltados para soluções tecnológicas em saúde.  
