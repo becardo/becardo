@@ -1,9 +1,12 @@
 ## Oi! Me chamo Beatriz, seja bem-vinda/o ao meu perfil :)
 
-Atualmente sou estudante de Engenharia de Controle e Automação na UFMG, com grande interesse na área de Engenharia Biomédica. Tenho formação técnica em Equipamentos Biomédicos pelo CEFET-MG, o que despertou meu interesse em atuar na interface entre tecnologia e saúde.
+Atualmente sou estudante de Engenharia de Controle e Automação na UFMG, com grande interesse nas áreas de Engenharia Biomédica, Inteligência Artificial e Automação de processos. Tenho formação técnica em Equipamentos Biomédicos pelo CEFET-MG, experiência que despertou meu interesse pela aplicação da tecnologia na área da saúde.
 
-Busco desenvolver projetos que unam inovação, acessibilidade e impacto social, especialmente voltados para soluções tecnológicas em saúde.  
-No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo ao longo da minha trajetória acadêmica e técnica.
+Busco desenvolver soluções que integrem **tecnologia, inteligência artificial e automação** para resolver problemas reais, especialmente em contextos relacionados à saúde, análise de dados e impacto social. Tenho interesse em projetos envolvendo desenvolvimento de sistemas inteligentes, processamento de informações, visualização de dados e otimização de processos.
+
+Ao longo da minha trajetória acadêmica, venho explorando aplicações de IA e programação em diferentes áreas, incluindo automação de indicadores de saúde pública, criação de ferramentas inteligentes e desenvolvimento de soluções tecnológicas voltadas para acessibilidade e inovação.
+
+No GitHub, compartilho projetos, estudos e experiências desenvolvidos durante minha formação acadêmica e técnica.
 
 **Vamos transformar ideias em soluções reais? ⚡**
 
@@ -30,18 +33,17 @@ No GitHub, compartilho experiências, estudos e projetos que venho desenvolvendo
 
 ---
 
-## 📚 Estou aprendendo...
+## 💻 Tecnologias e interesses
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </div>
 
 ---
